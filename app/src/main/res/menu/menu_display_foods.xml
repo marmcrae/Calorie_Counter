@@ -6,7 +6,7 @@
 
     <item
         android:title="@string/new_food"
-        app:showAsAction="never"
+        app:showAsAction="always"
         android:orderInCategory="100"
         android:id="@+id/action_settings"/>
 

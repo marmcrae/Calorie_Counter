@@ -5,7 +5,7 @@
     tools:context=".app.MainActivity">
     <item
         android:title="@string/food_list"
-        app:showAsAction="never"
+        app:showAsAction="always"
         android:orderInCategory="100"
         android:id="@+id/action_settings"/>
 
